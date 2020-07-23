@@ -10,20 +10,20 @@
   ],
   "env": {
     "TWILIO_ACCOUNT_SID": {
-      "description": "API username - find your account SID at https://www.twilio.com/user/account/voice-messaging",
+      "description": "AC9871fc846ecefbbaf72086adacbe9223",
       "required": true
     },
     "TWILIO_AUTH_TOKEN": {
-      "description": "API password - find your auth token at https://www.twilio.com/user/account/voice-messaging",
+      "description": "e425bc726bd96b9254cb85f0b7e72619",
       "required": true
     },
     "TWILIO_NUMBER": {
-      "description": "A number in your Twilio account to use with this application in E.164 format (e.g. +16518675309) - view your numbers at https://www.twilio.com/user/account/phone-numbers/incoming",
+      "description": "+12057720204",
       "required": true
     }
   },
   "website": "https://github.com/TwilioDevEd/marketing-notifications-node",
-  "repository": "https://github.com/TwilioDevEd/marketing-notifications-node",
+  "repository": "https://github.com/Taorep/marketing-notifications-node",
   "logo": "https://s3.amazonaws.com/howtodocs/twilio-logo.png",
   "success_url": "/landing.html",
   "addons": [
