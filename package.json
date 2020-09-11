@@ -43,7 +43,7 @@
   },
   "devDependencies": {
     "chai": "^3.5.0",
-    "eslint": "^3.19.0",
+    "eslint": "^4.18.2",
     "eslint-config-google": "^0.7.1",
     "mocha": "^8.0.1",
     "mongo-in-memory": "0.0.5",
